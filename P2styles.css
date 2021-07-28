@@ -1,0 +1,51 @@
+/*Stylesheet for chapter two exercise*/
+
+@font-face {
+	font-family: "Graves";
+	src: url("Graves-font.ttf")format(truetype);
+}
+
+
+body {
+	background-color: #ADD8E6;
+}
+
+h1{
+	color: cadetblue;
+	text-align: center;
+}
+h2{ font-family: Viaoda+Libre; }
+
+header h3{ color: cadetblue;
+	text-align: center;
+	font-family: "arial", "verdana", sans-serif;
+	font-weight: lighter;
+}
+hr{border-color: cadetblue;
+	border-width: 5px;
+	border-style: dotted;
+
+}
+
+ul{ color: black;
+
+	list-style-type: circle;
+}
+
+main h2 { color: cadetblue;
+
+}
+
+h3{
+	color: cadetblue;
+}
+
+
+p{ color: black;
+	font-size: 1.5em;
+
+}
+
+footer p{ text-align: center;
+	font-size: 0.9em;
+}
